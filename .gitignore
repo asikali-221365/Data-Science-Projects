@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.vscode/
+
+data/raw/*.json
+
+data/raw/
+data/processed/monthly_activity.csv
+data/processed/forecasting_dataset.csv
