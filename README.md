@@ -30,9 +30,3 @@ The application provides interactive analysis of:
 - DBSCAN
 - Machine Learning
 - Sentiment Analysis
-
-## 💻 Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
